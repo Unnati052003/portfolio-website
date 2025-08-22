@@ -58,7 +58,7 @@ export const PROJECTS = [
     title: "Decentralized Music Sharing Platform",
     image: project1,
     description:
-      "Designed to empower ground-level artists by leveraging blockchain technology. Features like fair reality, payment, song ownership, and a marketplace for buying and selling songs. Integrated real-time chat support to enhance user interaction and collaboration. Utilized Next.js, React.js, Solidity, JavaScript, IPFS, and styled with Tailwind CSS for a seamless and modern user experience.",
+      "A decentralized music sharing platform built on the Ethereum blockchain, allowing users to share and discover music securely.",
     technologies: [
       "HTML",
       "CSS",
@@ -77,8 +77,7 @@ export const PROJECTS = [
     title: "KAPILAINN LUXURY HOTEL",
     image: project2,
     description:
-      "Built and maintained responsive landing pages using HTML, CSS, JS and Bootstrap, ensuring compatibility across devices and major browsers.Participated in code reviews and implemented interactive components, gaining hands-on experience in creating intuitive user interfaces. Designed and executed MySQL queries to manage the system’s data effectively.",
-    
+      "A luxury hotel website with a modern design, showcasing rooms, amenities, and booking options.",
       technologies: ["HTML", "CSS", "Javascript", "React", "Node.js", "Bootstrap","MySQL"],
     LiveDemo: "https://hotelkapilainn.com/",
   },
@@ -89,8 +88,8 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "Javascript", "RactJS", "TailwindCSS"],
-    LiveDemo: "https://unnati-warule-portfolio.netlify.app/",
+    technologies: ["RactJS","Node.js","HTML","CSS","Javascript","TailwindCSS"],
+    LiveDemo: "https://unnati-warule-portfolio.netlify.app",
   },
 
   {
