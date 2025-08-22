@@ -1,0 +1,6 @@
+/* Hero.css */
+.hero-img {
+  width: 350px; /* smaller width */
+  height: auto; /* keep aspect ratio */
+  object-fit: contain; /* ensures full image fits inside */
+}
