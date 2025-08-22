@@ -89,7 +89,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["RactJS","Node.js","HTML","CSS","Javascript","TailwindCSS"],
-    LiveDemo: "https://unnati-warule-portfolio.netlify.app",
+    LiveDemo: "https://unnatiwarule-portfolio.netlify.app",
   },
 
   {
